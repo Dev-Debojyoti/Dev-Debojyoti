@@ -11,13 +11,13 @@ I'm a passionate **Software Quality Analyst** with experience in 🧪 Manual Tes
 📋 Jira
 📮 Postman. 
 
-I love finding bugs and solving them with dev teams, learning new skills, and collaborating with diverse teams to ensure a product is 100% bug-free and market-ready.
+I love finding bugs and solving them with dev teams, learning new skills, and collaborating with diverse teams to ensure a product is bug-free(I give my best efforts to do so) and market-ready.
 
 - 🌱 Currently learning: **Selenium, JMeter**
 - 🔭 Working on: **Selenium POM Frameworks**
 - 🌍 Languages: **programming languages -- JAVA and human languages I speak are English, Hindi & Bengali**
 - 📫 How to reach me: **you can mail me at debojyoti.das.se@gmail.com or you can call me on +91 8637892504**
-- ⚡ Fun fact: **[Music heals me so I love to sing songs of different languages and genre.]**
+- ⚡ Fun fact: **Music heals me so I love to sing songs of different languages and genre.**
 
 ## My Skills 🧠
 
