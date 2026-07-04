@@ -1,7 +1,5 @@
 # Hey there, I'm Debojyoti! 👋
-
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/844f4c88-f9cd-4853-80b0-539a90065092" />
-
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/825e17fd-7d5e-437f-8bdd-989e7e378051" />
 
 ## About Me 🚀
 
