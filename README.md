@@ -1,47 +1,50 @@
 # Hey there, I'm Debojyoti! 👋
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/844f4c88-f9cd-4853-80b0-539a90065092" />
 
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Debojyoti Das&txt=A%20Software%20Quality%20Analyst"></p>
+![Header](./github-header-banner.png)
 
 ## About Me 🚀
 
 I'm a passionate **[Software Quality Analyst]** with experience in **[🧪 Manual Testing
-🔗 API Testing
+🔗 API Testing using Postman
 🤖 Selenium Automation
 🗄 SQL
 📋 Jira
-📮 Postman ]**. 
+📮 Postman]**. 
 
-I love finding bugs and solving them with dev teams, learning new skills, and collaborating with diverse teams to ensure a product is 100% bug free and market- ready.
+I love finding bugs and solving them with dev teams, learning new skills, and collaborating with diverse teams to ensure a product is 100% bug-free and market-ready.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **[Selenium, JMeter]**
+- 🔭 Working on: **[Selenium POM Frameworks]**
+- 🌍 Languages: **[programming languages -- JAVA and human languages I speak are English, Hindi & Bengali]**
+- 📫 How to reach me: **[email - debojyoti.das.se@gmail.com]**
+- ⚡ Fun fact: **[I really like music and love to sing songs of different languages and genre.]**
 
 ## My Skills 🧠
 
-![Selenium]<img src="{https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white}" />
-![Java](https://shields.io)
-![Postman]<img src="{https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white}" />
-![MySQL]<img src="{https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white}" />
-![Jira]<img src="{https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white}" />
-![Trello]<img src="{https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white}" />
-
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![Java]
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+📁 QA Portfolio
+- OrangeHRM
+- Spotify
+- ReqRes
+- DummyJSON
+You can check out the repository [here](https://github.com/Dev-Debojyoti/QA-Portfolio)
 
-![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+📁 Selenium Automation Framework
+- Java
+- Selenium
+- TestNG
+- POM. You can check out the repository [here](https://github.com/Dev-Debojyoti/Selenium-POM-Framework)
 
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
 
