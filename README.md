@@ -1,10 +1,17 @@
 # Hey there, I'm Debojyoti! 👋
 
-![Banner Image](your_banner_image_url_here)
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Debojyoti Das&txt=A%20Software%20Quality%20Analyst"></p>
 
 ## About Me 🚀
 
-I'm a passionate ** Software Quality Analyst ** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **[Software Quality Analyst]** with experience in **[🧪 Manual Testing
+🔗 API Testing
+🤖 Selenium Automation
+🗄 SQL
+📋 Jira
+📮 Postman ]**. 
+
+I love finding bugs and solving them with dev teams, learning new skills, and collaborating with diverse teams to ensure a product is 100% bug free and market- ready.
 
 - 🌱 Currently learning: **[new technologies or skills you're currently learning]**
 - 🔭 Working on: **[current projects or side-projects]**
