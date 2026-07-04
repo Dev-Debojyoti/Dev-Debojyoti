@@ -5,25 +5,25 @@
 
 ## About Me 🚀
 
-I'm a passionate **Software Quality Analyst** with experience in **[🧪 Manual Testing
-🔗 API Testing using Postman
+I'm a passionate **Software Quality Analyst** with experience in 🧪 Manual Testing
+🔗 API Testing with Postman
 🤖 Selenium Automation
+⚡Java
 🗄 SQL
 📋 Jira
-📮 Postman]**. 
+📮 Postman. 
 
 I love finding bugs and solving them with dev teams, learning new skills, and collaborating with diverse teams to ensure a product is 100% bug-free and market-ready.
 
-- 🌱 Currently learning: **[Selenium, JMeter]**
-- 🔭 Working on: **[Selenium POM Frameworks]**
-- 🌍 Languages: **[programming languages -- JAVA and human languages I speak are English, Hindi & Bengali]**
-- 📫 How to reach me: **[email - debojyoti.das.se@gmail.com]**
-- ⚡ Fun fact: **[I really like music and love to sing songs of different languages and genre.]**
+- 🌱 Currently learning: **Selenium, JMeter**
+- 🔭 Working on: **Selenium POM Frameworks**
+- 🌍 Languages: **programming languages -- JAVA and human languages I speak are English, Hindi & Bengali**
+- 📫 How to reach me: **you can mail me at debojyoti.das.se@gmail.com or you can call me on +91 8637892504**
+- ⚡ Fun fact: **[Music heals me so I love to sing songs of different languages and genre.]**
 
 ## My Skills 🧠
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![Java]
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
@@ -48,8 +48,6 @@ You can check out the repository [here](https://github.com/Dev-Debojyoti/QA-Port
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**(https://www.linkedin.com/in/debojyotidas-qa/)
 
 
