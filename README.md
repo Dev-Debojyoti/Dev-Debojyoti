@@ -1,11 +1,11 @@
 # Hey there, I'm Debojyoti! 👋
+
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/844f4c88-f9cd-4853-80b0-539a90065092" />
 
-![Header](./github-header-banner.png)
 
 ## About Me 🚀
 
-I'm a passionate **[Software Quality Analyst]** with experience in **[🧪 Manual Testing
+I'm a passionate **Software Quality Analyst** with experience in **[🧪 Manual Testing
 🔗 API Testing using Postman
 🤖 Selenium Automation
 🗄 SQL
